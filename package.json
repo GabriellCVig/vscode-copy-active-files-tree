@@ -2,6 +2,7 @@
   "name": "copy-active-files-tree",
   "displayName": "Copy Active Files Tree",
   "description": "Copies the directory tree of open files to the clipboard, with or without contents.",
+  "publisher": "gabriellvig",
   "repository": {
     "type": "git",
     "url": "https://github.com/GabriellCVig/vscode-copy-active-files-tree"
